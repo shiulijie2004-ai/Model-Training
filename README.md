@@ -116,8 +116,6 @@ Use this page to:
 
 After training, outputs are typically saved into:
 
-* `results/metrics/` (evaluation metrics, summaries)
-* `results/checkpoints/` (saved models/checkpoints)
 * `deployment_builds/` (final deployment artifacts)
 
 Common deployment artifacts:
@@ -147,9 +145,6 @@ Student_FYP/
 │   ├── trainer.py
 │   ├── profiler.py
 │   └── packager.py
-├── results/
-│   ├── metrics/
-│   └── checkpoints/
 └── deployment_builds/
     ├── README.txt
     ├── <Algorithm>.joblib
