@@ -185,8 +185,4 @@ Re-run the installer (no sudo):
 bash install_fyp.sh
 ```
 
----
-
-```
-```
 
